@@ -349,6 +349,14 @@ screenshots/
 └── favorites.png
 ```
 <img width="1080" height="2340" alt="Screenshot_1791396105" src="https://github.com/user-attachments/assets/86c2c02f-32f8-4cca-bd4a-f4b6ea149be2" />
+<img width="1080" height="2340" alt="Screenshot_1791396109" src="https://github.com/user-attachments/assets/b7eff4dd-3c19-493c-a667-ce8fa052bf59" />
+<img width="1080" height="2340" alt="Screenshot_1791396112" src="https://github.com/user-attachments/assets/494ec917-7eae-4108-8304-bfe9fd4d4549" />
+<img width="1080" height="2340" alt="Screenshot_1791396118" src="https://github.com/user-attachments/assets/9b1f083c-d4e2-4c89-8c25-9b86519f4221" />
+<img width="1080" height="2340" alt="Screenshot_1791396138" src="https://github.com/user-attachments/assets/91044c96-a5fb-40e5-9236-f426832c100c" />
+<img width="1080" height="2340" alt="Screenshot_1791396147" src="https://github.com/user-attachments/assets/a1bc0620-bde1-4a18-a882-ea374594df58" />
+<img width="1080" height="2340" alt="Screenshot_1791396173" src="https://github.com/user-attachments/assets/e802621b-3716-4600-a6b8-6d94ed49bc62" />
+<img width="1080" height="2340" alt="Screenshot_1791396196" src="https://github.com/user-attachments/assets/7e9e30ab-a368-4801-b09c-91d9ba8bcf5e" />
+
 <img width="1080" height="2340" alt="Screenshot_1791396210" src="https://github.com/user-attachments/assets/b6b2fbff-3f1d-4eed-aecc-c3a1d8765fdd" />
 
 ## APK
