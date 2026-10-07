@@ -348,6 +348,7 @@ screenshots/
 ├── detail.png
 └── favorites.png
 ```
+<img width="1080" height="2340" alt="Screenshot_1791396105" src="https://github.com/user-attachments/assets/86c2c02f-32f8-4cca-bd4a-f4b6ea149be2" />
 
 ## APK
 
