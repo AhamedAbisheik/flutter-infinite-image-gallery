@@ -1,4 +1,3 @@
-# gallery_app
 
 # Infinite Image Gallery
 
